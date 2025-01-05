@@ -65,7 +65,7 @@ return(
 
                         <div class="col-lg-5 col-12 position-relative">
                             <div class="hero-image-wrap"></div>
-                            <img src={image2} class="hero-image img-fluid" alt="" height="100px"/>
+                            <img src={image2} class="hero-image img-fluid" alt="Pasan Piyumantha" height="100px"/>
                         </div>
 
                     </div>
