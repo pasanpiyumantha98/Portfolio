@@ -300,7 +300,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                       
                                     </ul>
 
-                                    <strong class="site-footer-title d-block mt-4 mb-3">Stay connected</strong>
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Reach Me</strong>
 
                                     <ul class="social-icon">
                                         <li class="social-icon-item"><a href="https://github.com/pasanpiyumantha98" class="social-icon-link bi-github"></a></li>
