@@ -395,7 +395,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                             <div class="form-floating">
                                                 <textarea class="form-control" id="message" name="message" placeholder="Tell me about the project"></textarea>
                                                 
-                                                <label for="floatingTextarea">Tell me about the project</label>
+                                                <label for="floatingTextarea">What's up?</label>
                                             </div>
                                         </div>
 
