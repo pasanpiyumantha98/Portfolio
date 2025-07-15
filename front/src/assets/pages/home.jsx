@@ -3,15 +3,13 @@ import "../css/bootstrap-icons.css"
 import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
 
+
+
 function Home(){
 return(
  <>
 
-        <section class="preloader">
-            <div class="spinner">
-                <span class="spinner-rotate"></span>    
-            </div>
-        </section>
+       
 
         <nav class="navbar navbar-expand-lg">
             <div class="container">
