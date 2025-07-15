@@ -5,7 +5,16 @@ TemplateMo 578 First Portfolio
 https://templatemo.com/tm-578-first-portfolio
 
 */
+/* ====  Reset the browser’s default body margin  ==== */
+html, body {
+  margin: 0;
+  padding: 0;
+}
 
+/* optional but recommended */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
 
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
@@ -535,6 +544,7 @@ strong {
   left: 0;
   overflow: hidden;
   height: 100%;
+  width: 100%;
   pointer-events: none;
 }
 
