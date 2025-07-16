@@ -3,6 +3,7 @@ import "../css/bootstrap-icons.css"
 import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
 import image1 from "../images/1.jpg"
+import image2 from "../images/3.png"
 
 
 function Home(){
@@ -65,7 +66,7 @@ return(
                         <div class="col-lg-7 col-12">
                             <div class="hero-text">
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
-                                    <img src={image1} class="avatar-image avatar-image-large img-fluid" alt=""/>
+                                   
 
                                     <h1 class="hero-title ms-3 mb-0">Pasan Piyumantha</h1>
                                 </div>
@@ -77,7 +78,7 @@ return(
 
                         <div class="col-lg-5 col-12 position-relative">
                             <div class="hero-image-wrap"></div>
-                            <img src="" class="hero-image img-fluid" alt=""/>
+                            <img src={image2} class="hero-image img-fluid" alt="" height="100px"/>
                         </div>
 
                     </div>
@@ -92,7 +93,35 @@ return(
                     <div class="row">
 
                         <div class="col-lg-6 col-12">
-                            <img src="images/couple-working-from-home-together-sofa.jpg" class="about-image img-fluid" alt=""/>
+                             
+                            <div class="profile-thumb">
+                                <div class="profile-title">
+                                    <h4 class="mb-0">Information</h4>
+                                </div>
+
+                                <div class="profile-body">
+                                    <p>
+                                        <span class="profile-small-title">Name</span> 
+                                        <span>Pasan Piyumantha</span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Birthday</span> 
+                                        <span>Feb 21, 1998</span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Phone</span> 
+                                         <span><a href="tel: 305-240-9671">+94 71622 8274</a></span>
+                                    </p>
+
+                                    <p>
+                                        <span class="profile-small-title">Email</span> 
+                                        <span><a href="mailto:hello@josh.design">hello@pasanpiyumantha.me</a></span>
+                                    </p>
+                                </div>
+                            </div>
+                       
                         </div>
 
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
