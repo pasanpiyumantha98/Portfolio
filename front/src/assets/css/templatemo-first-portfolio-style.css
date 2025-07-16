@@ -5,21 +5,11 @@ TemplateMo 578 First Portfolio
 https://templatemo.com/tm-578-first-portfolio
 
 */
-/* ====  Reset the browser’s default body margin  ==== */
-html, body {
-  margin: 0;
-  padding: 0;
-}
 
-/* optional but recommended */
-*, *::before, *::after {
-  box-sizing: border-box;
-}
 
 /*---------------------------------------
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
-
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #535da1;
@@ -216,7 +206,7 @@ strong {
   animation: spinner .9s linear infinite;
 }
 
-@-webkit-keyframes spinner {
+@-webkit-@keyframes spinner {
   to {transform: rotate(360deg);
   }
 }
@@ -544,7 +534,6 @@ strong {
   left: 0;
   overflow: hidden;
   height: 100%;
-  width: 100%;
   pointer-events: none;
 }
 
@@ -840,7 +829,7 @@ strong {
 .form-check-label-text {
   color: var(--p-color);
   display: block;
-  font-size: var(--copyright-font-size);
+  font-size: copyright-font-size;
   margin-top: 5px;
 }
 
@@ -1047,7 +1036,7 @@ strong {
 
   .custom-btn,
   .navbar .custom-btn {
-    font-size: var(--copyright-font-size);
+    font-size: var(--copyright-text-font-size);
     padding: 8px 16px;
   }
 

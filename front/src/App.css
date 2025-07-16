@@ -1,8 +1,9 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+  width: 100%;          /* optional but explicit */
+  max-width: none;      /* or just delete the original max-width line */
+  margin: 0;            /* get rid of centering if you don’t want it */
+  padding: 0;           /* remove the inner gap */
+  text-align: initial;  /* keep or change as needed */
 }
 
 .logo {

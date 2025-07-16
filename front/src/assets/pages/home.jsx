@@ -2,7 +2,7 @@ import "../css/bootstrap.min.css"
 import "../css/bootstrap-icons.css"
 import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
-
+import image1 from "../images/1.jpg"
 
 
 function Home(){
@@ -34,15 +34,15 @@ return(
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_2">About</a>
+                            <a class="nav-link click-scroll" href="#section_2">About Me</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_3">Services</a>
+                            <a class="nav-link click-scroll" href="#section_3">Projects</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_4">Projects</a>
+                            <a class="nav-link click-scroll" href="#section_4">Education</a>
                         </li>
 
                         <li class="nav-item">
@@ -50,12 +50,7 @@ return(
                         </li>
                     </ul>
 
-                    <div class="d-lg-flex align-items-center d-none ms-auto">
-                        <i class="navbar-icon bi-telephone-plus me-3"></i>
-                        <a class="custom-btn btn" href="#section_5">
-                            120-240-9600
-                        </a>
-                    </div>
+                    
                 </div>
 
             </div>
@@ -70,19 +65,19 @@ return(
                         <div class="col-lg-7 col-12">
                             <div class="hero-text">
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
-                                    <img src="images/happy-bearded-young-man.jpg" class="avatar-image avatar-image-large img-fluid" alt=""/>
+                                    <img src={image1} class="avatar-image avatar-image-large img-fluid" alt=""/>
 
-                                    <h1 class="hero-title ms-3 mb-0">Hello friend!</h1>
+                                    <h1 class="hero-title ms-3 mb-0">Pasan Piyumantha</h1>
                                 </div>
 
-                                <h2 class="mb-4">I’m available for freelance work.</h2>
-                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Let's begin</a></p>
+                                <h2 class="mb-4">Software developer & SEO expert</h2>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Download My CV</a></p>
                             </div>
                         </div>
 
                         <div class="col-lg-5 col-12 position-relative">
                             <div class="hero-image-wrap"></div>
-                            <img src="images/portrait-happy-excited-man-holding-laptop-computer.png" class="hero-image img-fluid" alt=""/>
+                            <img src={image1} class="hero-image img-fluid" alt=""/>
                         </div>
 
                     </div>
