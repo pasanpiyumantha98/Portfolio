@@ -4,7 +4,7 @@ import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
 import image1 from "../images/1.jpg"
 import image2 from "../images/3.png"
-import logo from "../images/logo1.png"
+import logo from "../images/logo4.png"
 
 
 function Home(){
