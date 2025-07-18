@@ -55,7 +55,7 @@ return(
                              
                             <div class="profile-thumb">
                                 <div class="profile-title">
-                                    <h4 class="mb-0">Information</h4>
+                                    <h4 class="mb-0">A little bit about Pasan</h4>
                                 </div>
 
                                 <div class="profile-body">
@@ -92,7 +92,7 @@ return(
                                     <img src="images/happy-bearded-young-man.jpg" class="avatar-image img-fluid" alt=""/>
                                 </div>
 
-                                <h3 class="pt-2 mb-3">a little bit about Pasan</h3>
+                                <h3 class="pt-2 mb-3"></h3>
 
                                 <p>This one-page HTML portfolio is provided by <a href="https://templatemo.com" target="_blank">TemplateMo</a>. This layout is based on Bootstrap v5.1.3 CSS and JS libraries. Image credits go to <a href="https://unsplash.com" target="_blank">Unsplash</a> and <a href="https://freepik.com" target="_blank">FreePik</a> for images used in this page.</p>
 
