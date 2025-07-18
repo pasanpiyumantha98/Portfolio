@@ -3,6 +3,14 @@ import "../css/bootstrap-icons.css"
 import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
 import logo from "../images/logo4.png"
+import "../js/jquery.min.js"
+
+import "../js/bootstrap.min.js"
+import "../js/jquery.sticky.js"
+import "../js/click-scroll.js"
+import "../js/jquery.magnific-popup.min.js"
+import "../js/magnific-popup-options.js"
+import "../js/custom.js"
 
 function NavBar ()
 {
