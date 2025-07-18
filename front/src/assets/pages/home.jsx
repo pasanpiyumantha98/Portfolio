@@ -4,6 +4,7 @@ import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
 import image1 from "../images/1.jpg"
 import image2 from "../images/3.png"
+import logo from "../images/logo1.png"
 
 
 function Home(){
@@ -19,7 +20,7 @@ return(
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a href="index.html" class="navbar-brand mx-auto mx-lg-0">First</a>
+                <a href="index.html" class="navbar-brand mx-auto mx-lg-0"><img src={logo}></img></a>
 
                 <div class="d-flex align-items-center d-lg-none">
                     <i class="navbar-icon bi-telephone-plus me-3"></i>
