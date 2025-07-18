@@ -31,7 +31,7 @@ return(
                                 </div>
 
                                 <h2 class="mb-4">Software developer & SEO expert</h2>
-                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Download My CV</a></p>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Download My Resume</a></p>
                             </div>
                         </div>
 
@@ -76,15 +76,15 @@ return(
 
                                     <p>
                                         <span class="profile-small-title">Email</span> 
-                                        <span><a href="mailto:hello@josh.design">hello@pasanpiyumantha.me</a></span>
+                                        <span>hello@pasanpiyumantha.me</span>
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Based in</span> 
-                                        <span><a href="mailto:hello@josh.design">Galle, Sri Lanka</a></span>
+                                        <span>Galle, Sri Lanka</span>
                                     </p>
                                      <p>
                                         <span class="profile-small-title">Github</span> 
-                                        <span><a href="mailto:hello@josh.design">@pasanpiyumantha98</a></span>
+                                        <span><a href="https://github.com/pasanpiyumantha98">@pasanpiyumantha98</a></span>
                                     </p>
                                 </div>
                             </div>
@@ -97,7 +97,7 @@ return(
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                                     <h2 class="text-white me-4 mb-0">The Road So Far</h2>
 
-                                    <img src="images/happy-bearded-young-man.jpg" class="avatar-image img-fluid" alt=""/>
+                                   
                                 </div>
 
                                 <h3 class="pt-2 mb-3"></h3>
