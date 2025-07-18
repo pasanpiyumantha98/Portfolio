@@ -71,12 +71,20 @@ return(
 
                                     <p>
                                         <span class="profile-small-title">Phone</span> 
-                                         <span><a href="tel: 305-240-9671">+94 71622 8274</a></span>
+                                         <span>+94 71622 8274</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">Email</span> 
                                         <span><a href="mailto:hello@josh.design">hello@pasanpiyumantha.me</a></span>
+                                    </p>
+                                    <p>
+                                        <span class="profile-small-title">Based in</span> 
+                                        <span><a href="mailto:hello@josh.design">Galle, Sri Lanka</a></span>
+                                    </p>
+                                     <p>
+                                        <span class="profile-small-title">Github</span> 
+                                        <span><a href="mailto:hello@josh.design">@pasanpiyumantha98</a></span>
                                     </p>
                                 </div>
                             </div>
