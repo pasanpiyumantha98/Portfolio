@@ -8,6 +8,7 @@ import logo from "../images/logo4.png"
 import NavBar from "../components/NavBar"
 
 
+
 function Home(){
 return(
  <>
@@ -97,14 +98,17 @@ return(
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                                     <h2 class="text-white me-4 mb-0">The Road So Far</h2>
 
-                                   
                                 </div>
 
                                 <h3 class="pt-2 mb-3"></h3>
 
-                                <p>This one-page HTML portfolio is provided by <a href="https://templatemo.com" target="_blank">TemplateMo</a>. This layout is based on Bootstrap v5.1.3 CSS and JS libraries. Image credits go to <a href="https://unsplash.com" target="_blank">Unsplash</a> and <a href="https://freepik.com" target="_blank">FreePik</a> for images used in this page.</p>
-
-                                <p>You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please <a href="https://templatemo.com/contact" target="_blank">contact us</a> for more info.</p>
+                                <p>
+                                    Hi, I’m Pasan Piyumantha,  a passionate and curious software engineer with a strong foundation in full-stack development, AI, and problem-solving. I recently completed my degree in Software Engineering from NSBM Green University, affiliated with Plymouth University, UK.
+ <br></br> <br></br>
+Over the years, I’ve worked on a variety of impactful projects, from AI-powered tools like Leaf Intel, a tea leaf quality assessment platform, to dynamic web apps and mobile solutions. My experience spans React, Spring Boot, Node.js, Firebase, and machine learning with Python. I'm driven by a deep interest in building scalable, user-centric applications that solve real-world problems.
+ <br></br> <br></br>
+Beyond development, I enjoy learning new things, collaborating with diverse teams, and continuously improving myself both technically and creatively. I also have a strong interest in sustainability and the environment, and I'm excited about combining tech with purpose-driven goals in the future.
+                               </p>
                             </div>
                         </div>
 
