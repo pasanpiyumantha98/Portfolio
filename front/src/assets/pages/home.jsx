@@ -192,7 +192,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                             <div class="col-lg-6 col-md-8 col-12">
                                 <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
                                 
-                                    <h2 class="text-white ms-4 mb-0">Say Hi</h2>
+                                    <h2 class="text-white ms-4 mb-0">Wave Hello 👋</h2>
                                 </div>
                             </div>
 
