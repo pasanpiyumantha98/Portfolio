@@ -240,7 +240,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
 
                                     <p>
-                                        <a href="mailto:hello@josh.design">
+                                        <a href="mailto:hello@pasanp.me">
                                             hello@pasanp.me
                                         </a>
                                     </p>
@@ -249,7 +249,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                     <p class="mb-0">
                                         <a href="tel: 120-240-9600">
-                                            1+94 71 622 8274
+                                            +94 71 622 8274
                                         </a>
                                     </p>
                                 </div>
