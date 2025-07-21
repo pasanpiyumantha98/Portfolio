@@ -6,6 +6,7 @@ import image1 from "../images/1.jpg"
 import image2 from "../images/3.png"
 import logo from "../images/logo4.png"
 import NavBar from "../components/NavBar"
+import image3 from "../images/project.jpg"
 
 
 
@@ -127,7 +128,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                         <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
-                                <img src="images/white-desk-work-study-aesthetics.jpg" class="avatar-image img-fluid" alt=""></img>
+                                <img src={image3} class="avatar-image img-fluid" alt=""></img>
 
                                 <h2 class="text-white ms-4 mb-0">Latest Projects</h2>
                             </div>
@@ -138,9 +139,9 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">Branding</small>
+                                    <small class="projects-tag">Tea leaf quality assesing platform using ML</small>
 
-                                    <h3 class="projects-title">Zoik agency</h3>
+                                    <h3 class="projects-title">Leaf Intel</h3>
                                 </div>
 
                                 <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
@@ -152,9 +153,9 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">Photography</small>
+                                    <small class="projects-tag">Hotel Website</small>
 
-                                    <h3 class="projects-title">The Watch</h3>
+                                    <h3 class="projects-title">Grand Highway Resort</h3>
                                 </div>
 
                                 <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
@@ -166,9 +167,9 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">Website</small>
+                                    <small class="projects-tag">Gaming Mods Management Platform</small>
 
-                                    <h3 class="projects-title">Polo</h3>
+                                    <h3 class="projects-title">GTA 6 Modding</h3>
                                 </div>
 
                                 <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
