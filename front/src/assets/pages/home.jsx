@@ -124,7 +124,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                         <div class="col-lg-10 col-12 mx-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                <img src="images/handshake-man-woman-after-signing-business-contract-closeup.jpg" class="avatar-image img-fluid" alt="">
+                                <img src="images/handshake-man-woman-after-signing-business-contract-closeup.jpg" class="avatar-image img-fluid" alt=""></img>
 
                                 <h2 class="text-white ms-4 mb-0">Services</h2>
                             </div>
@@ -226,7 +226,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                         <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
-                                <img src="images/white-desk-work-study-aesthetics.jpg" class="avatar-image img-fluid" alt="">
+                                <img src="images/white-desk-work-study-aesthetics.jpg" class="avatar-image img-fluid" alt=""></img>
 
                                 <h2 class="text-white ms-4 mb-0">Projects</h2>
                             </div>
@@ -243,7 +243,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                 </div>
 
                                 <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                    <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="projects-image img-fluid" alt=""></img>
                                 </a>
                             </div>
                         </div>
@@ -257,7 +257,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                 </div>
 
                                 <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                    <img src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="projects-image img-fluid" alt=""></img>
                                 </a>
                             </div>
                         </div>
@@ -271,7 +271,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                 </div>
 
                                 <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt="">
+                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt=""></img>
                                 </a>
                             </div>
                         </div>
@@ -286,7 +286,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                             <div class="col-lg-6 col-md-8 col-12">
                                 <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                    <img src="images/aerial-view-man-using-computer-laptop-wooden-table.jpg" class="avatar-image img-fluid" alt="">
+                                    <img src="images/aerial-view-man-using-computer-laptop-wooden-table.jpg" class="avatar-image img-fluid" alt=""></img>
 
                                     <h2 class="text-white ms-4 mb-0">Say Hi</h2>
                                 </div>
@@ -384,7 +384,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                         <div class="col-lg-3 col-md-6 col-6">
                                             <div class="form-check form-check-inline">
-                                                <input name="branding" type="checkbox" class="form-check-input" id="inlineCheckbox2" value="1">
+                                                <input name="branding" type="checkbox" class="form-check-input" id="inlineCheckbox2" value="1"></input>
 
                                                 <label class="form-check-label" for="inlineCheckbox2">
                                                     <i class="bi-lightbulb form-check-icon"></i>
@@ -395,7 +395,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                         <div class="col-lg-3 col-md-6 col-6">
                                             <div class="form-check form-check-inline">
-                                                <input name="ecommerce" type="checkbox" class="form-check-input" id="inlineCheckbox3" value="1">
+                                                <input name="ecommerce" type="checkbox" class="form-check-input" id="inlineCheckbox3" value="1"></input>
 
                                                 <label class="form-check-label" for="inlineCheckbox3">
                                                     <i class="bi-phone form-check-icon"></i>
@@ -406,7 +406,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                         <div class="col-lg-3 col-md-6 col-6">
                                             <div class="form-check form-check-inline me-0">
-                                                <input name="seo" type="checkbox" class="form-check-input" id="inlineCheckbox4" value="1">
+                                                <input name="seo" type="checkbox" class="form-check-input" id="inlineCheckbox4" value="1"></input>
 
                                                 <label class="form-check-label" for="inlineCheckbox4">
                                                     <i class="bi-google form-check-icon"></i>
