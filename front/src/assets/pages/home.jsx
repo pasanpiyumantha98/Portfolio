@@ -191,8 +191,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                             <div class="col-lg-6 col-md-8 col-12">
                                 <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                    <img src="images/aerial-view-man-using-computer-laptop-wooden-table.jpg" class="avatar-image img-fluid" alt=""></img>
-
+                                
                                     <h2 class="text-white ms-4 mb-0">Say Hi</h2>
                                 </div>
                             </div>
@@ -204,13 +203,13 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <strong class="site-footer-title d-block mb-3">Services</strong>
 
                                     <ul class="footer-menu">
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Websites</a></li>
-
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Branding</a></li>
-
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Ecommerce</a></li>
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Web development</a></li>
 
                                         <li class="footer-menu-item"><a href="#" class="footer-menu-link">SEO</a></li>
+
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Software development</a></li>
+
+                                      
                                     </ul>
 
                                     <strong class="site-footer-title d-block mt-4 mb-3">Stay connected</strong>
@@ -282,7 +281,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                                 <label class="form-check-label" for="inlineCheckbox1">
                                                     <i class="bi-globe form-check-icon"></i>
-                                                    <span class="form-check-label-text">Websites</span>
+                                                    <span class="form-check-label-text">Developments</span>
                                                 </label>
                                           </div>
                                         </div>
@@ -293,7 +292,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                                 <label class="form-check-label" for="inlineCheckbox2">
                                                     <i class="bi-lightbulb form-check-icon"></i>
-                                                    <span class="form-check-label-text">Branding</span>
+                                                    <span class="form-check-label-text">SEO</span>
                                                 </label>
                                             </div>
                                         </div>
@@ -304,21 +303,12 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                                 <label class="form-check-label" for="inlineCheckbox3">
                                                     <i class="bi-phone form-check-icon"></i>
-                                                    <span class="form-check-label-text">Ecommerce</span>
+                                                    <span class="form-check-label-text">Other</span>
                                                 </label>
                                             </div>
                                         </div>
 
-                                        <div class="col-lg-3 col-md-6 col-6">
-                                            <div class="form-check form-check-inline me-0">
-                                                <input name="seo" type="checkbox" class="form-check-input" id="inlineCheckbox4" value="1"></input>
-
-                                                <label class="form-check-label" for="inlineCheckbox4">
-                                                    <i class="bi-google form-check-icon"></i>
-                                                    <span class="form-check-label-text">SEO</span>
-                                                </label>
-                                            </div>
-                                        </div>
+                                        
 
                                         <div class="col-lg-12 col-12">
                                             <div class="form-floating">
