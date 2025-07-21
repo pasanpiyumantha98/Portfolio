@@ -131,9 +131,8 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                         <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
-                                <img src={image3} class="avatar-image img-fluid" alt=""></img>
-
-                                <h2 class="text-white ms-4 mb-0">Latest Projects</h2>
+                               
+                               <h2 class="text-white ms-4 mb-0">🚀 Latest Projects</h2>
                             </div>
                         </div>
 
@@ -235,14 +234,14 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <strong class="site-footer-title d-block mb-3">About</strong>
 
                                     <p class="mb-2">
-                                        Joshua is a professional web developer. Feel free to get in touch with me.
+                                        Software developer & SEO expert
                               </p>
 
                                     <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
 
                                     <p>
                                         <a href="mailto:hello@josh.design">
-                                            hello@josh.design
+                                            hello@pasanp.me
                                         </a>
                                     </p>
 
@@ -250,7 +249,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                     <p class="mb-0">
                                         <a href="tel: 120-240-9600">
-                                            120-240-9600
+                                            1+94 71 622 8274
                                         </a>
                                     </p>
                                 </div>
