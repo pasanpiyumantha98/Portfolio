@@ -7,6 +7,9 @@ import image2 from "../images/3.png"
 import logo from "../images/logo4.png"
 import NavBar from "../components/NavBar"
 import image3 from "../images/project.jpg"
+import leaf from "../images/leafintel.png"
+import ghr from "../images/ghr.jpg"
+import gta6 from "../images/gta6.jpg"
 
 
 
@@ -144,8 +147,8 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <h3 class="projects-title">Leaf Intel</h3>
                                 </div>
 
-                                <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="projects-image img-fluid" alt=""></img>
+                                <a href="https://leafintel.vercel.app/" class="popup-image">
+                                    <img src={leaf} class="projects-image img-fluid" alt="" height="50px"></img>
                                 </a>
                             </div>
                         </div>
@@ -158,8 +161,8 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <h3 class="projects-title">Grand Highway Resort</h3>
                                 </div>
 
-                                <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="projects-image img-fluid" alt=""></img>
+                                <a href="https://grandhighwayresort.lk/" class="popup-image">
+                                    <img src={ghr} class="projects-image img-fluid" alt=""></img>
                                 </a>
                             </div>
                         </div>
@@ -172,8 +175,8 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <h3 class="projects-title">GTA 6 Modding</h3>
                                 </div>
 
-                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt=""></img>
+                                <a href="https://gta6modding.com/" class="popup-image">
+                                    <img src={gta6} class="projects-image img-fluid" alt=""></img>
                                 </a>
                             </div>
                         </div>
