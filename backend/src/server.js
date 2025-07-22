@@ -1,11 +1,14 @@
 import express from 'express';
 import cors from 'cors';
+import { connectDB } from '../config/db';
 
 
 const app = express()
 
 app.use(express.json())
 app.use(cors())
+
+const db = connectDB()
 
 app.get('/', (req, res) => {
   res.send('Hello World!');
@@ -19,7 +22,11 @@ app.get('/name', (req,res)=>{
 
 app.post('/api/contactform', (req,res)=>{
 
-    
+    const name = req.body.name
+    const email = req.body.email
+    const msg = req.body.msg
+
+
 
 })
 
