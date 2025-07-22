@@ -10,10 +10,31 @@ import image3 from "../images/project.jpg"
 import leaf from "../images/leafintel.png"
 import ghr from "../images/ghr.jpg"
 import gta6 from "../images/gta6.jpg"
-
+import axios from "axios"
+import { useEffect, useState } from "react"
 
 
 function Home(){
+
+    const [name,setName] = useState()
+
+   
+    useEffect(()=>{
+
+    async function fetchName()
+    {
+        const response = await axios.get('http://localhost:9000/name')
+
+        setName(response.data)
+    }
+
+    fetchName()
+
+    })
+
+   
+
+    
 return(
  <>
 
@@ -32,7 +53,7 @@ return(
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                    
 
-                                    <h1 class="hero-title ms-3 mb-0">Pasan Piyumantha</h1>
+                                    <h1 class="hero-title ms-3 mb-0">{name}</h1>
                                 </div>
 
                                 <h2 class="mb-4">Software developer & SEO expert</h2>
