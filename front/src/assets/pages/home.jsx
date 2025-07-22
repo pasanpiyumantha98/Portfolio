@@ -17,6 +17,8 @@ import { useEffect, useState } from "react"
 function Home(){
 
     const [name,setName] = useState()
+    const [email, setEmail] = useState()
+    const [msg, setMsg] = useState()
 
    
     useEffect(()=>{

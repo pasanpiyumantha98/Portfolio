@@ -17,6 +17,12 @@ app.get('/name', (req,res)=>{
 
 })
 
+app.post('/api/contactform', (req,res)=>{
+
+    
+
+})
+
 
 app.listen(9000,()=>{
 
