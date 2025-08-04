@@ -99,7 +99,7 @@ return(
 
                                     <p>
                                         <span class="profile-small-title">Phone</span> 
-                                         <span>+94 71622 8274</span>
+                                         <span>+94 71 622 8274</span>
                                     </p>
 
                                     <p>
@@ -287,11 +287,13 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <strong class="site-footer-title d-block mb-3">Expertise</strong>
 
                                     <ul class="footer-menu">
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Web development</a></li>
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Web Development</a></li>
 
                                         <li class="footer-menu-item"><a href="#" class="footer-menu-link">SEO</a></li>
 
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Software development</a></li>
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Software Development</a></li>
+
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Computer Vision</a></li>
 
                                       
                                     </ul>
