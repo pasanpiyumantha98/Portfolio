@@ -295,6 +295,8 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                                         <li class="footer-menu-item"><a href="#" class="footer-menu-link">Computer Vision</a></li>
 
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Tech Talks</a></li>
+
                                       
                                     </ul>
 
