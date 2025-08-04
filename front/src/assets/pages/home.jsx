@@ -207,6 +207,68 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                 </div>
             </section>
 
+             <section class="services section-padding" id="section_3">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-10 col-12 mx-auto">
+                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
+                               
+                                <h2 class="text-white ms-4 mb-0"> 👨🏻‍🎓 Education</h2>
+                            </div>
+
+                            <div class="row pt-lg-5">
+                                <div class="col-lg-6 col-12">
+                                    <div class="services-thumb">
+                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
+                                            <h3 class="mb-0">School Education</h3>
+
+                                            <div class="services-price-wrap ms-auto">
+                                                <p class="services-price-text mb-0">School</p>
+                                                <div class="services-price-overlay"></div>
+                                            </div>
+                                        </div>
+
+                                        <p>Passed General Certificate of Education Exams; Ordinary Level Exam with 6 A passes, 3 B passes and Advanced Level with 1 A pass and 2 B passes.</p>
+
+                                        <a  href="https://richmondcollege.lk/" class="custom-btn custom-border-btn btn mt-3">Richmond College, Galle</a>
+
+                                        <div class="services-icon-wrap d-flex justify-content-center align-items-center">
+                                            <i class="services-icon bi-book-half"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-12">
+                                    <div class="services-thumb services-thumb-up">
+                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
+                                            <h3 class="mb-0">Bachelors's Degree</h3>
+
+                                            <div class="services-price-wrap ms-auto">
+                                                <p class="services-price-text mb-0">University</p>
+                                                <div class="services-price-overlay"></div>
+                                            </div>
+                                        </div>
+
+                                        <p>BSc Software Engineering (Second Class Upper Division), Programme Aggregate Final Mark: 66.78</p>
+
+                                        <a href="https://www.plymouth.ac.uk/international/national-school-of-business-management" class="custom-btn custom-border-btn btn mt-3">University of Plymouth, UK</a>
+
+                                        <div class="services-icon-wrap d-flex justify-content-center align-items-center">
+                                            <i class="services-icon bi-briefcase"></i>
+                                        </div>
+                                    </div>
+                                </div>
+
+                               
+
+                               
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
             <section class="contact section-padding" id="section_5">
                     <div class="container">
                         <div class="row">
