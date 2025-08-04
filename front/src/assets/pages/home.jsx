@@ -104,7 +104,7 @@ return(
 
                                     <p>
                                         <span class="profile-small-title">Email</span> 
-                                        <span>hello@pasanpiyumantha.me</span>
+                                        <span>hello@pasanp.me</span>
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Based in</span> 
