@@ -222,7 +222,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                             <div class="col-lg-3 col-md-6 col-12 pe-lg-0">
                                 <div class="contact-info contact-info-border-start d-flex flex-column">
-                                    <strong class="site-footer-title d-block mb-3">Services</strong>
+                                    <strong class="site-footer-title d-block mb-3">Expertise</strong>
 
                                     <ul class="footer-menu">
                                         <li class="footer-menu-item"><a href="#" class="footer-menu-link">Web development</a></li>
@@ -237,29 +237,22 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <strong class="site-footer-title d-block mt-4 mb-3">Stay connected</strong>
 
                                     <ul class="social-icon">
-                                        <li class="social-icon-item"><a href="https://twitter.com/minthu" class="social-icon-link bi-twitter"></a></li>
+                                        <li class="social-icon-item"><a href="https://github.com/pasanpiyumantha98" class="social-icon-link bi-github"></a></li>
 
-                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-instagram"></a></li>
+                                        <li class="social-icon-item"><a href="https://www.linkedin.com/in/pasan-piyumantha-13128b216/" class="social-icon-link bi-linkedin"></a></li>
 
-                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-pinterest"></a></li>
+                                        <li class="social-icon-item"><a href="https://www.instagram.com/_pasan.p/" class="social-icon-link bi-instagram"></a></li>
 
-                                        <li class="social-icon-item"><a href="https://www.youtube.com/templatemo" class="social-icon-link bi-youtube"></a></li>
+                                        <li class="social-icon-item"><a href="https://web.facebook.com/p.piyumantha/" class="social-icon-link bi-facebook"></a></li>
                                     </ul>
 
-                                    <strong class="site-footer-title d-block mt-4 mb-3">Start a project</strong>
-
-                                    <p class="mb-0">I’m available for freelance projects</p>
+                                   
                                 </div>
                             </div>
 
                             <div class="col-lg-3 col-md-6 col-12 ps-lg-0">
                                 <div class="contact-info d-flex flex-column">
-                                    <strong class="site-footer-title d-block mb-3">About</strong>
-
-                                    <p class="mb-2">
-                                        Software developer & SEO expert
-                              </p>
-
+                                    
                                     <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
 
                                     <p>
