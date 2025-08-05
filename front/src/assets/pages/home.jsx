@@ -1,5 +1,5 @@
-import "../css/bootstrap.min.css"
-import "../css/bootstrap-icons.css"
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
 import image1 from "../images/1.jpg"
