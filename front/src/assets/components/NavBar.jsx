@@ -5,7 +5,7 @@ import "../css/templatemo-first-portfolio-style.css"
 import logo from "../images/logo4.png"
 import "../js/jquery.min.js"
 
-import "../js/bootstrap.min.js"
+//import "../js/bootstrap.min.js"
 import "../js/jquery.sticky.js"
 import "../js/click-scroll.js"
 import "../js/jquery.magnific-popup.min.js"
