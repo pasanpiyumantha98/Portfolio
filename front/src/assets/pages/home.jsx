@@ -10,6 +10,7 @@ import image3 from "../images/project.jpg"
 import leaf from "../images/leafintel.png"
 import ghr from "../images/ghr.jpg"
 import gta6 from "../images/gta6.jpg"
+import araliya from "../images/araliya.jpg"
 import axios from "axios"
 import { useEffect, useState } from "react"
 
@@ -161,7 +162,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
 
                         <div class="clearfix"></div>
 
-                        <div class="col-lg-4 col-md-6 col-12">
+                        <div class="col-lg-3 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
                                     <small class="projects-tag">Tea leaf quality assesing platform using ML</small>
@@ -175,21 +176,20 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                             </div>
                         </div>
 
-                        <div class="col-lg-4 col-md-6 col-12">
+                        <div class="col-lg-3 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">Hotel Website</small>
+                                    <small class="projects-tag">Travel Agent Web Application</small>
 
-                                    <h3 class="projects-title">Grand Highway Resort</h3>
+                                    <h3 class="projects-title">Araliya Vacations</h3>
                                 </div>
 
-                                <a href="https://grandhighwayresort.lk/" class="popup-image">
-                                    <img src={ghr} class="projects-image img-fluid" alt=""></img>
+                                <a href="http://araliyavacations.com/" class="popup-image">
+                                    <img src={araliya} class="projects-image img-fluid" alt=""></img>
                                 </a>
                             </div>
                         </div>
-
-                        <div class="col-lg-4 col-md-6 col-12">
+                        <div class="col-lg-3 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
                                     <small class="projects-tag">Gaming Mods Management Platform</small>
@@ -197,8 +197,22 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                                     <h3 class="projects-title">GTA 6 Modding</h3>
                                 </div>
 
-                                <a href="https://gta6modding.com/" class="popup-image">
+                                <a href="https://grandhighwayresort.lk/" class="popup-image">
                                     <img src={gta6} class="projects-image img-fluid" alt=""></img>
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag"></small>
+                                    <small class="projects-tag">Hotel Web Application</small>
+                                    <h3 class="projects-title">Grand Highway Resort</h3>
+                                </div>
+
+                                <a href="https://gta6modding.com/" class="popup-image">
+                                    <img src={ghr} class="projects-image img-fluid" alt=""></img>
                                 </a>
                             </div>
                         </div>
@@ -214,7 +228,7 @@ Beyond development, I enjoy learning new things, collaborating with diverse team
                         <div class="col-lg-10 col-12 mx-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
                                
-                                <h2 class="text-white ms-4 mb-0"> 👨🏻‍🎓 Education</h2>
+                                <h2 class="text-white ms-4 mb-0">  Education</h2>
                             </div>
 
                             <div class="row pt-lg-5">
