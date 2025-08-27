@@ -1,4 +1,4 @@
-//import "../css/bootstrap.min.css"
+import "../css/bootstrap.min.css"
 import "../css/bootstrap-icons.css"
 import "../css/magnific-popup.css"
 import "../css/templatemo-first-portfolio-style.css"
