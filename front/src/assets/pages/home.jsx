@@ -58,7 +58,7 @@ return(
                                     <h1 class="hero-title ms-3 mb-0">Pasan Piyumantha</h1>
                                 </div>
 
-                                <h2 class="mb-4">Software developer & SEO expert</h2>
+                                <h2 class="mb-4">Software Developer & SEO Expert</h2>
                                 <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Download My Resume</a></p>
                             </div>
                         </div>
