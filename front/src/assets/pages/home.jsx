@@ -13,6 +13,7 @@ import gta6 from "../images/gta6.jpg"
 import araliya from "../images/araliya.jpg"
 import axios from "axios"
 import { useEffect, useState } from "react"
+import PasanCV from "../files/PasanCV.pdf"
 
 
 function Home(){
@@ -60,7 +61,7 @@ return(
                                 </div>
 
                                 <h2 class="mb-4">Software Developer & SEO Expert</h2>
-                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Download My Resume</a></p>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href={PasanCV}>Download My Resume</a></p>
                             </div>
                         </div>
 
